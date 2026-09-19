@@ -1,0 +1,23 @@
+Retail Category Intelligence: Group Insight Summary
+
+The analysis was carried out on 107,836 retail transactions from January to June 2026 across 5 product categories and 25 products. The main aim was to understand category and product performance, discount effectiveness, and sales patterns for the Category Manager’s supplier review.
+
+Key Findings
+
+Electronics has the biggest decline in revenue. Its revenue fell from ₹4.57 crore in January to ₹2.97 crore in June, a decrease of about 35.0%. In comparison, Apparel showed the strongest growth, increasing by about 34.1%, while Grocery remained relatively stable.
+Product performance varies within each category. In Electronics, Headphones and Laptop were the top two products by total revenue, while Smart TV and Tablet were the bottom two. This shows that product level performance is important when reviewing a category.
+Higher discounts are not giving a better revenue result. Average revenue per transaction decreased from ₹4,686 at 0% discount to ₹3,632 at 20% discount, while average units sold stayed around 2.6. The analysis also shows that Saturday has the highest average daily revenue, while Monday has the lowest.
+
+Recommendation
+
+Apparel has the strongest case for increased attention because of its growth during the six month period. Electronics should be reviewed more closely, especially Smart TV and Tablet, and their current shelf space and promotional support should be discussed during the supplier review. Higher discounts should also be used carefully based on the observed revenue pattern.
+
+Limitation
+
+The dataset does not contain supplier level or margin information. Because of this, a specific supplier cannot be identified and the actual margin impact of discounts cannot be measured from the available data.
+
+Section Ownership
+
+Pratyush Kumar Pandey – CBIM, 1.1, 1.2
+Saketh – CBIM, 1.3, 1.4
+Nalluri Raghunandan – CBIM, 1.5, 1.6
